@@ -1,3 +1,3 @@
 # college-demo
 This is my first Git Repository.
-Author - Priyanshu Yadav
+Author - Priyanshu Yadav.
